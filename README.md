@@ -27,7 +27,6 @@ optional arguments:
 
 ## Demo
 
-[![asciicast](https://asciinema.org/a/597738.svg)](https://asciinema.org/a/597738)
 
 ## How it Works
 Kubescape Network Scanner utilizes the OSI model as a framework for understanding and analyzing network communication. The scanning process involves a meticulous layer-by-layer approach, starting from the transport layer all the way up to the application layer. By maintaining seamless connections between layers, Kubescape Network Scanner identifies services running on each layer, providing valuable information for securing your Kubernetes clusters.
