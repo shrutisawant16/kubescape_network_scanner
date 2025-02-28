@@ -1,0 +1,16 @@
+[
+    {
+        "applicationlayer": "mongodb",
+        "authenticated": false,
+        "host": "mongodb-service",
+        "port": 27017,
+        "presentationlayer": "http",
+        "properties": {
+            "host": "mongodb-deployment-5dc97494dd-sftss",
+            "version": "7.0.5"
+        },
+        "service": "mongodb",
+        "sessionlayer": "tcp",
+        "type": "tcp"
+    }
+]
